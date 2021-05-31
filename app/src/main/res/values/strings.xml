@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+
+
+    <string name="libs">\u2022 <b>Glide</b> for showing flag images.
+        \n\u2022 <b>Eaze Graph</b> for showing Pie charts.
+        \n\u2022 <b>Circle ImageView</b> for showing my pic xD lol.
+    </string>
+
+    <string name="city_name">Enter city name</string>
+    <string name="google_maps_key">AIzaSyBpWQq0LlVzYT8mKGUOy6KYv8CDh_WwzcY</string>
+
+</resources>
